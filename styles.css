@@ -34,10 +34,6 @@ body {
     display: flex;
     justify-content: space-between;
   }
-   header button{
-    background-color: transparent;
-  }
-  
   button:hover {
     background-color:#BCA37F;
     transition: all 0.3s ease;
