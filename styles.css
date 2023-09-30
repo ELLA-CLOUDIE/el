@@ -142,3 +142,17 @@ body {
     margin-left: 15px;
     transform: rotate(180deg);
 }
+@media only screen and (max-width: 600px) {
+  header div {
+    flex-direction: column; 
+    align-items: center;
+  }
+
+  button {
+    width: 100%;
+  }
+
+  .article-card {
+    width: 100%; 
+  }
+}
