@@ -34,6 +34,9 @@ body {
     display: flex;
     justify-content: space-between;
   }
+   header button{
+    background-color: transparent;
+  }
   
   button:hover {
     background-color:#BCA37F;
@@ -69,7 +72,7 @@ body {
     margin-bottom: 10px;
     padding: 8px;
     font-size: 14px;
-    font-family: cursive;
+    font-family: Monospace;
     margin-right: 10px;
   }
   
